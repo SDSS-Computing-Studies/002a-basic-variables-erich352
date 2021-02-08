@@ -2,6 +2,5 @@
 
 
 
-assignment2.fname == 'Mr'
-
-assignment2.lname == "Yang"
+fname = 'Mr'
+lname = "Yang"
