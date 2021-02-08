@@ -2,6 +2,6 @@
 
 # SD Computing Studies Assignment
 
-value1 = 10
+assignment3.value1 == 10
 
-value2 = "10"
+assignment3.value2 == "10"
